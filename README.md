@@ -19,7 +19,7 @@ Android Device equipped with Accelerometer , Magnetometer, Gyroscope (IMU)
 
 
 A complete YouTube tutorial is available for this project in the following Link:
-
+https://www.youtube.com/watch?v=NcLf0NCidj0
 
 
 
