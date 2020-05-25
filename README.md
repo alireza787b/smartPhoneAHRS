@@ -1,10 +1,10 @@
 # smartPhoneAHRS
 Attitude and Horizon Reference System (AHRS) application using Onboard smartphone Sensors
-Linear Kalman Attitude Estimation (AHRS) 
-Using Onboard Smart Phone IMU Version 1
+Linear Kalman Filter and Complementary Filter Attitude Estimation (AHRS) 
+Using Onboard Smart Phone IMU 
 
 
-Using this Simulink Model, you can use your smartphone sensors to get raw gyroscope, accelerometer, magnetometer data and estimate the real-time attitude of the phone using Kalman filter. Pitch, Roll, Heading angles and rates.
+Using this Simulink Model, you can use your smartphone sensors to get raw gyroscope, accelerometer, magnetometer data and estimate the real-time attitude of the phone using Kalman filter and Complementary. Pitch, Roll, Heading angles and rates.
 
 This project is still in the development phase so use it at your own risk.
 No noise filtering is done on the output. You can implement different noise reduction algorithms according to your application.
